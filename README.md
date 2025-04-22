@@ -119,7 +119,7 @@ The project uses Weights & Biases (wandb) for experiment tracking. Results are o
 - **vit-self-supervised-rotation**: Pre-training and fine-tuning experiments
 - **vit-feature-analysis**: Feature representation analysis
 
-## Risultati
+## Results
 
 The experimental results can be viewed via the Weights & Biases dashboard, where the following are tracked:
 - Training and validation accuracy
