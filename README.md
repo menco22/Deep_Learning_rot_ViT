@@ -26,7 +26,7 @@ Pre-training parameters:
 - **Base learning rate**: 1.5e-4
 - **Weight decay**: 0.05
 - **Scheduling**: Warmup followed by cosine decay
-- **Epochs**: 5 (reduced for ImageNet)
+- **Epochs**: 1 (there were supposed to be 5 but after the first one it crashed)
 
 ### 2. Transfer Learning on Imagenette
 
