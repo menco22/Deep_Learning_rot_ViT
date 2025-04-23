@@ -108,7 +108,7 @@ python main/single_pre_train_experiments/2c_FT_CH_L7_L6_Rot_Vit_on_imagenette.py
 python main/featuresAnalysis.py
 ```
 
-6. To run the full workflow:
+6. To run the full workflow (advised):
 ```
 python main/main.py
 ```
